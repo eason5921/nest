@@ -1,1 +1,4 @@
-export class CreateGoodDto {}
+
+export class CreateGoodDto  {
+    creator:string
+}
